@@ -1,0 +1,9 @@
+{
+	"name": "azuregit243",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62344dfb-404b-4e82-aa5f-f32498906abe",
+		"tenantId": "12f933b3-3d61-4b19-9a4d-689021de8cc9"
+	}
+}
